@@ -1,0 +1,68 @@
+*{
+
+}
+.top{
+    width: 1600px;
+    height: 50px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+#toptag{
+    text-transform: uppercase;
+    font-size: 24px;
+    margin-top: 10px;/*giưa khung*/
+    margin-bottom: 10px;
+}
+body {
+    background-color: #fafafa;
+    color: #242424;
+    font-size: 20px;
+    line-height: 1.25;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+div{
+    width: 370px;
+    height: 600px;
+    /*border: 2px solid red;*/
+    background-color: antiquewhite;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+    box-sizing: border-box;*/
+    align-content: center;
+    line-height: 0;
+}
+img{
+    max-width: 100%;
+}
+#hip{
+    text-transform: uppercase;
+    font-size: 28px;
+    text-align: center;
+    font-weight:bold;
+}
+#ghichu{
+    font-size: 20px;
+    text-align: center;
+    font-weight:normal;
+    line-height: 1.5;
+}
+#gia{
+    Text-transform: uppercase;
+    font-size: 28px;
+    text-align: center;
+    font-weight:bold;
+}
+#chitiet{
+    text-transform: uppercase;
+    font-size: 24px;
+    text-align: center;
+    color: white;
+    font-weight:normal;
+    width: 370px;
+    height: 50px;
+    background-color: black;
+    line-height: 2;
+}
